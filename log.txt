@@ -1,0 +1,158 @@
+UserID: 5215069840 | Time: 2024-08-22 19:50:04.598592 | Command: /bgmi | Target: 20.235.93.116 | Port: 12397 | Time: 300
+Username: @iammistiroy
+Target: 20.235.93.116
+Port: 12397
+Time: 300
+
+UserID: 5215069840 | Time: 2024-08-22 20:21:12.875751 | Command: /bgmi | Target: 20.198.74.110 | Port: 26177 | Time: 180
+Username: @iammistiroy
+Target: 20.198.74.110
+Port: 26177
+Time: 180
+
+UserID: 5215069840 | Time: 2024-08-23 19:12:55.815979 | Command: /bgmi | Target: 20.204.17.4 | Port: 19426 | Time: 300
+Username: @iammistiroy
+Target: 20.204.17.4
+Port: 19426
+Time: 300
+
+UserID: 5215069840 | Time: 2024-08-23 19:43:10.463290 | Command: /bgmi | Target: 20.204.191.125 | Port: 10136 | Time: 300
+Username: @iammistiroy
+Target: 20.204.191.125
+Port: 10136
+Time: 300
+
+UserID: 5215069840 | Time: 2024-08-23 19:48:32.764811 | Command: /bgmi | Target: 20.204.191.125 | Port: 10136 | Time: 300
+Username: @iammistiroy
+Target: 20.204.191.125
+Port: 10136
+Time: 300
+
+UserID: 5215069840 | Time: 2024-08-23 20:20:10.845771 | Command: /bgmi | Target: 20.204.159.234 | Port: 25952 | Time: 300
+Username: @iammistiroy
+Target: 20.204.159.234
+Port: 25952
+Time: 300
+
+UserID: 5215069840 | Time: 2024-08-23 20:52:59.640507 | Command: /bgmi | Target: 4.213.65.190 | Port: 17684 | Time: 300
+Username: @iammistiroy
+Target: 4.213.65.190
+Port: 17684
+Time: 300
+
+UserID: 5215069840 | Time: 2024-08-24 17:46:59.466235 | Command: /bgmi | Target: 20.204.188.209 | Port: 10434 | Time: 240
+Username: @BlackOrderX
+Target: 20.204.188.209
+Port: 10434
+Time: 240
+
+UserID: 5215069840 | Time: 2024-08-24 17:51:02.637123 | Command: /bgmi | Target: 20.204.188.209 | Port: 10434 | Time: 240
+Username: @BlackOrderX
+Target: 20.204.188.209
+Port: 10434
+Time: 240
+
+UserID: 5215069840 | Time: 2024-08-24 17:55:06.168121 | Command: /bgmi | Target: 20.204.188.209 | Port: 10434 | Time: 240
+UserID: 5215069840 | Time: 2024-08-24 18:02:04.732625 | Command: /bgmi | Target: 20.198.108.203 | Port: 18989 | Time: 240
+Username: @BlackOrderX
+Target: 20.198.108.203
+Port: 18989
+Time: 240
+
+UserID: 5215069840 | Time: 2024-08-24 18:51:25.800919 | Command: /bgmi | Target: 20.204.17.82 | Port: 15211 | Time: 240
+Username: @BlackOrderX
+Target: 20.204.17.82
+Port: 15211
+Time: 240
+
+UserID: 5215069840 | Time: 2024-08-24 18:55:40.670382 | Command: /bgmi | Target: 20.204.17.82 | Port: 15211 | Time: 240
+UserID: 5215069840 | Time: 2024-08-24 18:56:34.608156 | Command: /bgmi | Target: 20.204.17.82 | Port: 15211 | Time: 240
+Username: @BlackOrderX
+Target: 20.204.17.82
+Port: 15211
+Time: 240
+
+UserID: 5215069840 | Time: 2024-08-24 19:21:34.192311 | Command: /bgmi | Target: 20.204.76.235 | Port: 10471 | Time: 180
+Username: @BlackOrderX
+Target: 20.204.76.235
+Port: 10471
+Time: 180
+
+UserID: 5215069840 | Time: 2024-08-24 19:39:16.618990 | Command: /bgmi | Target: 20.219.166.28 | Port: 28788 | Time: 180
+Username: @BlackOrderX
+Target: 20.219.166.28
+Port: 28788
+Time: 180
+
+UserID: 5215069840 | Time: 2024-08-24 19:49:10.045199 | Command: /bgmi | Target: 20.204.39.127 | Port: 19503 | Time: 180
+Username: @BlackOrderX
+Target: 20.204.39.127
+Port: 19503
+Time: 180
+
+UserID: 5215069840 | Time: 2024-08-24 20:07:15.216386 | Command: /bgmi | Target: 20.198.75.22 | Port: 11252 | Time: 180
+Username: @BlackOrderX
+Target: 20.198.75.22
+Port: 11252
+Time: 180
+
+UserID: 5215069840 | Time: 2024-08-25 12:59:59.455462 | Command: /bgmi | Target: 20.198.75.22 | Port: 11252 | Time: 180
+Username: @BlackOrderX
+Target: 20.198.75.22
+Port: 11252
+Time: 180
+
+UserID: 5215069840 | Time: 2024-08-25 18:57:33.414620 | Command: /bgmi | Target: 20.198.74.219 | Port: 20781 | Time: 180
+Username: @BlackOrderX
+Target: 20.198.74.219
+Port: 20781
+Time: 180
+
+UserID: 5215069840 | Time: 2024-08-25 19:02:24.765002 | Command: /bgmi | Target: 20.198.74.219 | Port: 20781 | Time: 180
+Username: @BlackOrderX
+Target: 20.198.74.219
+Port: 20781
+Time: 180
+
+UserID: 5215069840 | Time: 2024-08-25 19:09:45.967847 | Command: /bgmi | Target: 20.235.93.233 | Port: 20478 | Time: 240
+Username: @BlackOrderX
+Target: 20.235.93.233
+Port: 20478
+Time: 240
+
+UserID: 5215069840 | Time: 2024-08-25 19:23:15.912775 | Command: /bgmi | Target: 20.198.74.96 | Port: 21235 | Time: 240
+Username: @BlackOrderX
+Target: 20.198.74.96
+Port: 21235
+Time: 240
+
+UserID: 5215069840 | Time: 2024-08-25 19:34:58.450710 | Command: /bgmi | Target: 20.204.191.71 | Port: 10425 | Time: 240
+Username: @BlackOrderX
+Target: 20.204.191.71
+Port: 10425
+Time: 240
+
+UserID: 5215069840 | Time: 2024-08-25 20:10:26.033026 | Command: /bgmi | Target: 20.198.72.155 | Port: 16032 | Time: 240
+Username: @BlackOrderX
+Target: 20.198.72.155
+Port: 16032
+Time: 240
+
+UserID: 5215069840 | Time: 2024-08-25 20:39:33.121839 | Command: /bgmi | Target: 20.204.108.117 | Port: 24739 | Time: 240
+Username: @BlackOrderX
+Target: 20.204.108.117
+Port: 24739
+Time: 240
+
+UserID: 5215069840 | Time: 2024-08-25 20:43:35.626702 | Command: /bgmi | Target: 20.204.108.117 | Port: 24739 | Time: 240
+Username: @BlackOrderX
+Target: 20.204.108.117
+Port: 24739
+Time: 240
+
+UserID: 5215069840 | Time: 2024-08-25 20:47:38.024800 | Command: /bgmi | Target: 20.204.108.117 | Port: 24739 | Time: 240
+Username: @BlackOrderX
+Target: 20.204.108.117
+Port: 24739
+Time: 240
+

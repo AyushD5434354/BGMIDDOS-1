@@ -1,4 +1,4 @@
-# ReporterAlpha
+# BLACK DDOS
 import telebot
 import subprocess
 import requests
@@ -6,10 +6,10 @@ import datetime
 import os
 
 # insert your Telegram bot token here
-bot = telebot.TeleBot('BOT-TOKEN')
+bot = telebot.TeleBot('7452301613:AAG2S36kaOfLGm-YQwbG_UIzhZBPn9AWQ5s')
 
 # Admin user IDs
-admin_id = ["YOUR-UID"]
+admin_id = ["5215069840"]
 
 # File to store allowed user IDs
 USER_FILE = "users.txt"
@@ -247,7 +247,6 @@ def handle_bgmi(message):
             response = "Usage :- /bgmi <target> <port> <time>"  # Updated command syntax
     else:
         response = "You Are Not Authorized To Use This Command."
-
     bot.reply_to(message, response)
 
 
@@ -284,7 +283,7 @@ def show_help(message):
 To See Admin Commands:
 /admincmd : Shows All Admin Commands.
 
-Buy From :- @ReporterAlpha
+Buy From :- @BLACKDDOS_2.0_Team
 '''
     for handler in bot.message_handlers:
         if hasattr(handler, 'commands'):
@@ -301,7 +300,7 @@ def welcome_start(message):
     user_name = message.from_user.first_name
     response = f'''👋🏻Welcome, {user_name}!
 Try To Run This Command : /help 
-Join :- t.me/ChannelLink'''
+Join :- t.me/Testdooos_bot'''
     bot.reply_to(message, response)
 
 @bot.message_handler(commands=['rules'])
@@ -349,7 +348,7 @@ def broadcast_message(message):
     if user_id in admin_id:
         command = message.text.split(maxsplit=1)
         if len(command) > 1:
-            message_to_broadcast = "Message To All Users By @ReporterAlpha:\n\n" + command[1]
+            message_to_broadcast = "Message To All Users By @BLACKDDOS 2.0 Team:\n\n" + command[1]
             with open(USER_FILE, "r") as file:
                 user_ids = file.read().splitlines()
                 for user_id in user_ids:
@@ -365,4 +364,4 @@ def broadcast_message(message):
 
     bot.reply_to(message, response)
 bot.polling()
- #ReporterAlpha
+ #BLACK DDOS 2.0
